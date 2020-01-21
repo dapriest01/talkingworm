@@ -1,2 +1,2 @@
 # talkingworm
-Animation of a talking warm
+Animation of a talking worm
